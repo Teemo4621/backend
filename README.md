@@ -27,7 +27,8 @@ product 📂
 ## 🍻Installation
 
 ```bash
-git clone https://github.com/your-username/go-api-crud.git
+git clone https://github.com/Teemo4621/gobasic_api.git
 cd gobasic_api
+docker-compose up -d
 go run main.go
 ```
